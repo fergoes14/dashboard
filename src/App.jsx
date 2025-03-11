@@ -6,22 +6,7 @@ export default (props) =>{
   return(
     <div className="Container">
       <Tempo/>
-      <Tempo/>
-      <Tempo/>
-      <Tempo/>
-      <Tempo/>
-      <Tempo/>
-      <Tempo/>
-      <Tempo/>
-      <Tempo/>
-      <Tempo/>
-      <Tempo/>
-      <Tempo/>
-      <Tempo/>
-      <Tempo/>
-      <Tempo/>
-      <Tempo/>
-      <Tempo/>
+
     </div>
   )
 }
